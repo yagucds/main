@@ -1,0 +1,9 @@
+{
+	"name": "wissendemoadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba315b41-25eb-4ba5-b71d-f9df1459bb68",
+		"tenantId": "8a38d5c9-ff2f-479e-8637-d73f6241a4f0"
+	}
+}
